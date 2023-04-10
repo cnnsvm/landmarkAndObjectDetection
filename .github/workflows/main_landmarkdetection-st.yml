@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'landmarkdetection-st'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F0755FD3D8A8455AB05B97D8469530CD }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_89F403302EDA47E5A5872144EFA21E70 }}
