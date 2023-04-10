@@ -1,9 +1,9 @@
-libgl1-mesa-glx
+
 streamlit
 pandas
 numpy
 Pillow
 tensorflow
 tensorflow-hub
-opencv-python
+opencv-contrib-python-headless
 urllib3
